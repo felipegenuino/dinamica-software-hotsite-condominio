@@ -7,7 +7,11 @@
 
 /* 	MAIN STYLES */
  
-	.logotipo{ background: url("img/theme-condominio/logotipo.png") }
+.logotipo {
+    background: url("../img/theme-condominio/logotipo.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    padding: 20px 160px;
+}
 	
 /* 	LISTA BLOCO */
 	.lista-bloco{}
@@ -25,16 +29,62 @@
  
 
 
-body { font-family: "titillium_webregular"; color: #444}
-h1, h2, h3, h4, h5, h6 {font-family: "titillium_webregular"}
+body {font-family: 'Exo', sans-serif; color: #444}
+h1, h2, h3, h4, h5, h6 {font-family: 'Exo', sans-serif;}
 
  
 .header {
-   }
+    border-bottom: 1px solid #CCCCCC;
+    padding: 20px 0;
+}
+
 
 
 .main {
     
+}
+
+
+
+.hero{     
+	background: url("../img/theme-condominio/background.jpg") no-repeat scroll 0 0 transparent;
+	height: 550px}
+
+
+.hero h2 {
+    color: #FFFFFF;
+    font-size: 4rem;
+    font-weight: 100;
+    padding-top: 12%;
+    text-align: center;
+}
+.hero h2 strong{display: block;}
+
+.hero .button{  display: table;
+    margin: 0 auto;}
+
+
+
+.fullscreen-bg:before {
+    bottom: 0;
+    box-shadow: 0 0 265px 55px black inset;
+    content: "";
+    left: 0;
+    opacity: 0.6;
+    position: fixed;
+    right: 0;
+    top: 0;
+}
+
+
+.fullscreen-bg {
+    background-position: 50% 50%;
+    background-size: cover;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
 }
 
 
