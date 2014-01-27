@@ -1,0 +1,47 @@
+ 
+
+/*
+	Cor principal	#34A167
+	Cor principal:hover #38AE6F;
+*/
+
+/* 	MAIN STYLES */
+ 
+	.logotipo{ background: url("img/theme-condominio/logotipo.png") }
+	
+/* 	LISTA BLOCO */
+	.lista-bloco{}
+	.lista-bloco li{border: 1px solid transparent;}
+	.lista-bloco li a {    display: block;    margin-top: 10px;}
+	.lista-bloco li:hover {    background: none repeat scroll 0 0 #F2F2F2;    border: 1px solid #CCCCCC;}
+	.lista-bloco p {    font-size: 0.95rem;    line-height: 1.5;}
+	.lista-bloco img {    width: 100%;}
+	.lista-bloco h4 {    font-size: 1.2rem;    font-weight: 600;    line-height: 1.2;}
+
+	/* 	PAINEIS */
+	.panel.callout{  }
+
+
+ 
+
+
+body { font-family: "titillium_webregular"; color: #444}
+h1, h2, h3, h4, h5, h6 {font-family: "titillium_webregular"}
+
+ 
+.header {
+   }
+
+
+.main {
+    
+}
+
+
+
+.sidebar {
+    
+}
+
+
+.footer{}
