@@ -1611,7 +1611,7 @@ meta.foundation-mq-topbar {
     background: #272727;
     color: white; }
   .top-bar-section ul li.active > a {
-    background: #34A167;
+    background: #7a0b1a;
     color: white; }
     .top-bar-section ul li.active > a:hover {
       background:#38AE6F}
@@ -1916,7 +1916,7 @@ button, .button {
   padding-left: 2rem;
   font-size: 1rem;
   /*     @else                            { font-size: $padding - rem-calc(2); } */
-  background-color: #34A167;
+  background-color: #7a0b1a;
   border-color: #38AE6F;
   color: white;
   -webkit-transition: background-color 300ms ease-out;
@@ -1927,14 +1927,26 @@ button, .button {
   -webkit-appearance: none;
   border: none;
   font-weight: normal !important; }
+
+
   button:hover, button:focus, .button:hover, .button:focus {
-    background-color: #38AE6F; }
+    opacity: 0.9 }
   button:hover, button:focus, .button:hover, .button:focus {
     color: white; }
   button.secondary, .button.secondary {
     background-color: #e7e7e7;
     border-color: #dadada;
     color: #333333; }
+
+  button.alternative, .button.alternative {
+    background-color: #6F7072;
+    border-color: #dadada;
+    color: #fff; }
+
+    
+
+
+
     button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
       background-color: #dadada; }
     button.secondary:hover, button.secondary:focus, .button.secondary:hover, .button.secondary:focus {
