@@ -3,7 +3,11 @@
 *, .transition{   transition: all 0.5s ease 0s; -ms-transition: all 0.5s ease 0s;  -webkit-transition: all 0.5s ease 0s; -moz-transition: all 0.5s ease 0s; -o-transition: all 0.5s ease 0s; }
 
 
- 
+.row {    max-width: 82.5rem;}
+
+.modal-full-large{}
+
+
 
 
 body {font-family: 'Open Sans', sans-serif; color: #444}
@@ -237,4 +241,37 @@ section:nth-child(2n) {
 
     /*  PAINEIS */
     .panel.callout{  }
+
+
+
+/* 'SECTION TREINAMENTO
+============================================== */
+
+    .lista-videos{display: inline;     list-style: none outside none;}
+
+    .lista-videos li { padding: 5px; }
+
+
+.lista-videos-item {
+    border: 1px solid #CCCCCC;
+    position: relative;
+}
+    .lista-videos-item{}
+.lista-videos-item .titulo {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+    color: #FFFFFF;
+    display: block;
+    font-size: 16px;
+    margin: 0;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+    .lista-videos-item .imagem{ width: 100%}
+
+
+
+
+
 
