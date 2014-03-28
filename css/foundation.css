@@ -3355,9 +3355,8 @@ blockquote p {
 @media only screen and (min-width: 40.063em) {
   .reveal-modal {
     padding: 1.875rem;
-    /*top: 6.25rem; */
-  top: 1rem; 
-}
+    /*top: 6.25rem;*/
+    top: 1rem; }
     .reveal-modal.tiny {
       margin-left: -15%;
       width: 30%; }

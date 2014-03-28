@@ -12,7 +12,7 @@
 
 body {font-family: 'Open Sans', sans-serif; color: #444}
 h1, h2, h3, h4, h5, h6 {font-family: 'Exo 2', sans-serif;}
-
+ 
  
 .header {
     background: none repeat scroll 0 0 rgba(255, 255, 255, 0.9);
@@ -43,10 +43,10 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Exo 2', sans-serif;}
 
 /*'SECTIONS*/
 
-    section.hero, section.footer, section.beneficios, section.recursos,  section.treinamento, section.contato, section.acesso{ padding: 83px 0 200px}
+    section.hero, section.footer, section.beneficios, section.recursos,  section.treinamento, section.contato, section.acesso{ padding: 0px 0 200px}
 
     section.header{}
-    section.hero{}
+    section.hero{  padding: 0;}
     section.footer{}
     section.beneficios{ padding-top: 0;}
     section.recursos{}    
@@ -63,36 +63,10 @@ h1, h2, h3, h4, h5, h6 {font-family: 'Exo 2', sans-serif;}
 section:nth-child(2n) {
     background: none repeat scroll 0 0 rgba(8, 139, 198, 0.1);
 }
-.hero{     
-	background: url("../img/theme-condominio/background.jpg") no-repeat fixed 0 0 rgba(0, 0, 0, 0) !important;
-	height: 550px}
+.hero{      background: url("../img/theme-condominio/background.jpg") no-repeat fixed 0 0 rgba(0, 0, 0, 0) !important; }
+.hero-inner {   padding: 50px 0; text-align: center; }  
 
-
-/*
-.hero h2 {
-    color: #FFFFFF;
-    font-size: 4rem;
-    font-weight: 300;
-    letter-spacing: -2px;
-    line-height: 1.2em;
-    margin-bottom: 40px;
-    padding-top: 15%;
-    text-align: center;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
-    text-transform: uppercase;
-}
-
-
-.hero h2 strong{display: block;}
-
-.hero .button{  display: table;
-    margin: 0 auto;}
-
-
-*/
-#logotipo{  opacity: 0;
-         position: relative;}
-
+#logotipo{  opacity: 0;  position: relative;}
 #logotipo h1 {
     color: #FFFFFF;
     font-size: 4rem;
@@ -111,8 +85,8 @@ section:nth-child(2n) {
     margin: 0;
     opacity: 0;
     position: relative;
-    width: 50%;
- }
+    text-align: center;
+  }
 
 #slogan h1 {
     color: rgb(255, 255, 255);
