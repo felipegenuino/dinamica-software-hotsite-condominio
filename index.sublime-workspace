@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"right"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"s",
+				"scroll"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"FONT",
+				"font-family"
+			],
+			[
+				"mysql_n",
+				"mysql_num_rows"
+			],
+			[
+				"con",
+				"consulta"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"bal",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"sushi",
+				"sushimasa"
+			],
+			[
+				"div",
+				"div	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 26086,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 5384,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/felipegenuino/Documents/GitHub/dinamica-software-hotsite-condominio/css/style.css",
+		"/Users/felipegenuino/Documents/GitHub/dinamica-software-hotsite-condominio/index.html",
+		"/Users/felipegenuino/Documents/GitHub/dinamica-software-hotsite-condominio/css/foundation.css",
+		"/Users/felipegenuino/Documents/GitHub/dinamica-software-hotsite-condominio/js/stickUp.js",
+		"/Users/felipegenuino/Desktop/urbano-php/final.php",
+		"/Users/felipegenuino/Desktop/urbano-php/admin-galeria-config.php",
+		"/Users/felipegenuino/Desktop/urbano-php/css/hotsite-style.css",
+		"/Users/felipegenuino/Desktop/urbano-php/lib/instafeed/instafeed.js",
+		"/Users/felipegenuino/Desktop/Terminal Saved Output",
+		"/Users/felipegenuino/Desktop/bootstrap/index.html",
+		"/Users/felipegenuino/Desktop/bootstrap/02_04.html",
+		"/Users/felipegenuino/Desktop/bootstrap/css/custom.css",
+		"/Users/felipegenuino/Desktop/bootstrap/02_03.html",
+		"/Users/felipegenuino/Desktop/bootstrap/02_02.html",
+		"/Users/felipegenuino/Desktop/bootstrap/js/respond.js",
+		"/Users/felipegenuino/Desktop/bootstrap/index.sublime-project",
+		"/Users/felipegenuino/Documents/GitHub/agencia-labbo-soleflex/www.soleflex.com.br/_scss/style.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/drupal/sites/default/default.settings.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/aplicacao/date.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/aplicacao/carro.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/aplicacao/index.html",
+		"/Users/felipegenuino/Documents/GitHub/agencia-labbo-soleflex/foundation-5.1.1/index.html",
+		"/Users/felipegenuino/Documents/GitHub/agencia-labbo-soleflex/html5boiplate/index.html",
+		"/Users/felipegenuino/Documents/GitHub/agencia-labbo-soleflex/foundation-5.1.1/stylesheet/foundation.css",
+		"/Users/felipegenuino/Documents/GitHub/lab-IndexedDB/index.html",
+		"/Users/felipegenuino/Documents/GitHub/agencia-labbo-soleflex/css/main.css",
+		"/Users/felipegenuino/Documents/GitHub/agencia-labbo-urbano-hotsite/final.php",
+		"/Users/felipegenuino/Documents/GitHub/agencia-labbo-urbano-hotsite/lib/fancybox/helpers/jquery.fancybox-thumbs.css",
+		"/Users/felipegenuino/Documents/GitHub/agencia-labbo-urbano-hotsite/lib/fancybox/helpers/jquery.fancybox-buttons.css",
+		"/Users/felipegenuino/Documents/GitHub/agencia-labbo-urbano-hotsite/css/hotsite-style.css",
+		"/Users/felipegenuino/Documents/GitHub/seventh/teste.html",
+		"/Users/felipegenuino/Documents/GitHub/seventh/index.html",
+		"/Users/felipegenuino/Documents/GitHub/seventh/stylesheet/seventh.css",
+		"/Users/felipegenuino/Desktop/x.css",
+		"/Users/felipegenuino/Documents/GitHub/monitoria-fiesc/index.html",
+		"/Users/felipegenuino/Documents/GitHub/monitoria-fiesc/lib/charts/theme-grid.js",
+		"/Users/felipegenuino/Documents/GitHub/monitoria-fiesc/gui.html",
+		"/Users/felipegenuino/Documents/GitHub/monitoria-fiesc/javascript/script.js",
+		"/Users/felipegenuino/Documents/GitHub/monitoria-fiesc/stylesheet/style.css",
+		"/Users/felipegenuino/Documents/GitHub/monitoria-fiesc/lib/charts/theme-grid",
+		"/Users/felipegenuino/Documents/GitHub/monitoria-fiesc/ui.html",
+		"/Users/felipegenuino/Documents/GitHub/monitoria-fiesc/stylesheet/tipografy.css",
+		"/Users/felipegenuino/Documents/GitHub/monitoria-fiesc/stylesheet/fonts/tipografy.css",
+		"/Users/felipegenuino/Documents/GitHub/Curso-de-java/info.txt",
+		"/Users/felipegenuino/Documents/GitHub/Curso-de-java/aula-07-tipos-primitivos/Variavel.java",
+		"/Users/felipegenuino/Documents/GitHub/Curso-de-java/aula-05-fundamendos-java/HelloWorld.java",
+		"/Users/felipegenuino/Documents/GitHub/Curso-de-java/aula-05-fundamendos-java/sequencia-de-scape.java",
+		"/Users/felipegenuino/Documents/GitHub/Curso-de-java/aula 05/HelloWorld.java",
+		"/Users/felipegenuino/Documents/GitHub/curso-de-java/xti/HelloWorld.class",
+		"/Applications/XAMPP/xamppfiles/htdocs/curso_pdo/config.php",
+		"/Users/felipegenuino/Documents/GitHub/Teste com repositorio/index.html",
+		"/Users/felipegenuino/Documents/GitHub/curso_pdo/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/PDO/conexao.php",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Users/felipegenuino/Dropbox/_front-end/drupalblog/drupalblog.info",
+		"/Users/felipegenuino/Dropbox/_front-end/drupalblog/html.tpl.php",
+		"/Users/felipegenuino/Dropbox/_front-end/drupalblog/node.tpl.php",
+		"/Users/felipegenuino/Dropbox/_front-end/drupalblog/page.tpl.php",
+		"/Users/felipegenuino/Dropbox/_front-end/drupalblog/styles/style.css",
+		"/Users/felipegenuino/Dropbox/_front-end/drupalblog/source/system/page.tpl.php",
+		"/Users/felipegenuino/Dropbox/_front-end/drupalblog/styles/foundation.css",
+		"/Users/felipegenuino/Dropbox/_front-end/drupalblog/page_top.tpl.php",
+		"/Users/felipegenuino/Dropbox/_front-end/drupalblog/source/system/system.info",
+		"/Users/felipegenuino/Dropbox/_front-end/drupalblog/styles/typography.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/purpledrop/sites/default/settings.php",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Volumes/SEM TITULO/01-altoqi24anos/css/hotsite-aniversario-altoqi.css",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/noticias.html",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/index.html",
+		"/Volumes/SEM TITULO/Lynda - Up and Running with AngularJS/Exercise/Ex_Files_UaR_AngularJS/Exercise Files/chap_02/02/final/public/js/controllers/app.js",
+		"/Users/felipegenuino/Dropbox/_front-end/estudos/css/aula04.css",
+		"/Users/felipegenuino/Dropbox/_front-end/estudos/scss/aula03.scss",
+		"/Users/felipegenuino/Dropbox/_front-end/estudos/scss/aula02.scss",
+		"/Users/felipegenuino/Dropbox/estudos-scss/aula02.scss",
+		"/Users/felipegenuino/Dropbox/_projeto_luam-davi/Site_codigos/Produção/css/estilos.css",
+		"/Users/felipegenuino/Dropbox/_projeto_luam-davi/Site_codigos/Produção/delivery.html",
+		"/Users/felipegenuino/Dropbox/_projeto_luam-davi/Site_codigos/Produção/contato.html",
+		"/Users/felipegenuino/Dropbox/_projeto_luam-davi/Site_codigos/Produção/index.html",
+		"/Users/felipegenuino/Dropbox/_projeto_luam-davi/Site_codigos/Produção/js/sushimasa.js",
+		"/Users/felipegenuino/Dropbox/_projeto_luam-davi/Site_codigos/Backup/v-2/cardapio.html",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/responsive.html",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/regras.html",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/ranking.html",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/clubes.html",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/atletas.html",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/agenda.html",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/css/foundation.css",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/css/style.css",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/js/main.js",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/css/fonts/typography.css",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-backup/_v9/index.html",
+		"/Users/felipegenuino/Dropbox/crud/index.php",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/less/style.less",
+		"/Users/felipegenuino/Dropbox/_Faculdade/6 PGF4  Projeto Gráfico 4/code-producao/beneficios.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"footer",
+			"header",
+			"footer",
+			"titulo",
+			"footer",
+			"modal",
+			"<!-- // modal aqui, deixar dinamico -->\n<div id=\"modal-treinamento-1\" class=\"reveal-modal xlarge modal-full-large\" data-reveal> \n    <div class=\"row\"> \n\n<div class=\"large-3 columns\">\n    <img class=\"imagem\" src=\"img/theme-condominio/treinamento/treinamento-item-01.jpg\">\n      <p class=\"lead\">Your couch. It is mine.</p> <p>Im a cool paragraph that lives inside of an even cooler modal. Wins</p> \n    </div><!--//large-4-->\n\n             <div class=\"large-9 columns\">\n                   <div class=\"flex-video\">\n      <iframe width=\"420\" height=\"315\" frameborder=\"0\" allowfullscreen=\"\" src=\"//www.youtube.com/embed/aiBt44rrslw\"></iframe>\n    </div> <!--// flexvideo -->\n\n            </div><!--//large-4-->\n          \n    </div> <!--//row -->\n\n  <a class=\"close-reveal-modal\">&#215;</a> \n</div> <!--// modal -->\n",
+			"modal",
+			"treinam",
+			"margin-top",
+			"font-fam",
+			";*/\n",
+			"template",
+			"h1",
+			"transi",
+			".breadcrumbs {\n	    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);\n	    border: medium none;\n	    margin: 0;\n	    padding: 10px 0;\n	}",
+			"-->",
+			".select-language",
+			"40",
+			"labbo",
+			".link-more",
+			"title",
+			"ies",
+			"monitoria",
+			"letter",
+			"700",
+			"7237",
+			".region-top",
+			"extension=php_pdo.dll",
+			"extension=php_pdo",
+			"extension =php_pdo",
+			"extension = php_pdo",
+			"extension=php_pdo",
+			"extension=php_pdo.dll",
+			"pdo",
+			"}\n",
+			"user",
+			"login",
+			">\n",
+			"conteudo",
+			"}\n",
+			".btn-cadastre",
+			".campo-form.cadastre",
+			".campo-form.cadastre ",
+			"bod",
+			".campo-form.cadastre",
+			".campo-form.login",
+			".campo",
+			".box-como-comprar-inner li",
+			"slider",
+			"profile",
+			"tab",
+			"main",
+			"src=\"img/thumb-d.jpg\"",
+			".item-top-player {",
+			".caption",
+			".caption .button",
+			".caption .button {",
+			"font-fam",
+			"font-weight",
+			".footer-item a {",
+			".item-menu-primary",
+			"h2.title strong"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26066,
+								26066
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13889.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3915,
+								3915
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3078.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
